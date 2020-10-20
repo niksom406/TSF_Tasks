@@ -1,2 +1,2 @@
 # TSF_Tasks
-This is a repository which includes the task performed by me in The Sparks Foundation internship 
+This is a repository which includes the task performed at The Sparks Foundation internship 
